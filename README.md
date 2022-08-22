@@ -7,4 +7,4 @@
 a. Link to Jupiter notebook : https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb
 b. Link to Collab : https://colab.research.google.com/?utm_source=scs-index
 
-# Please reach if you need help @santigie.tech on IG.
+> Reachout if you need help @santigie.tech on IG.
